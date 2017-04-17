@@ -1,7 +1,7 @@
 # test coverage for  [extract-text-webpack-plugin (v2.1.0)](http://github.com/webpack/extract-text-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-text-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-text-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin)
 #### Extract text from bundle into a file.
 
-[![NPM](https://nodei.co/npm/extract-text-webpack-plugin.png?downloads=true)](https://www.npmjs.com/package/extract-text-webpack-plugin)
+[![NPM](https://nodei.co/npm/extract-text-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/extract-text-webpack-plugin)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-extract-text-webpack-plugin/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-extract-text-webpack-plugin/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-extract-text-webpack-plugin%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-extract-text-webpack-plugin/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-extract-text-webpack-plugin%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-extract-text-webpack-plugin/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.html](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-extract-text-webpack-plugin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-extract-text-webpack-plugin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-extract-text-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-extract-text-webpack-plugin/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/screenCapture.npmPackageListing.svg)
 
@@ -66,32 +72,25 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "bebraw",
-            "email": "bebraw@gmail.com"
+            "name": "bebraw"
         },
         {
-            "name": "d3viant0ne",
-            "email": "wiens.joshua@gmail.com"
+            "name": "d3viant0ne"
         },
         {
-            "name": "ericclemmons",
-            "email": "eric@smarterspam.com"
+            "name": "ericclemmons"
         },
         {
-            "name": "jhnns",
-            "email": "mail@johannesewald.de"
+            "name": "jhnns"
         },
         {
-            "name": "sokra",
-            "email": "tobias.koppers@googlemail.com"
+            "name": "sokra"
         },
         {
-            "name": "spacek33z",
-            "email": "kees@webduck.nl"
+            "name": "spacek33z"
         },
         {
-            "name": "thelarkinn",
-            "email": "sean.larkin@cuw.edu"
+            "name": "thelarkinn"
         }
     ],
     "name": "extract-text-webpack-plugin",
@@ -99,7 +98,6 @@
     "peerDependencies": {
         "webpack": "^2.2.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/webpack/extract-text-webpack-plugin.git"
