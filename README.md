@@ -1,4 +1,7 @@
-# test coverage for  [extract-text-webpack-plugin (v2.1.0)](http://github.com/webpack/extract-text-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-text-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-text-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin)
+# npmtest-extract-text-webpack-plugin
+
+#### test coverage for  [extract-text-webpack-plugin (v2.1.0)](http://github.com/webpack/extract-text-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-text-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-text-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin)
+
 #### Extract text from bundle into a file.
 
 [![NPM](https://nodei.co/npm/extract-text-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/extract-text-webpack-plugin)
