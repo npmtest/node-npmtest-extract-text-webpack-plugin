@@ -1,6 +1,6 @@
 # npmtest-extract-text-webpack-plugin
 
-#### test coverage for  [extract-text-webpack-plugin (v2.1.0)](http://github.com/webpack/extract-text-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-text-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-text-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin)
+#### basic test coverage for  [extract-text-webpack-plugin (v2.1.0)](http://github.com/webpack/extract-text-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-text-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-text-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-text-webpack-plugin)
 
 #### Extract text from bundle into a file.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-extract-text-webpack-plugin/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-extract-text-webpack-plugin/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-extract-text-webpack-plugin/build/coverage.html/index.html)
 
@@ -112,7 +112,8 @@
         "test": "mocha",
         "travis": "npm run cover -- --report lcovonly"
     },
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "bin": {}
 }
 ```
 
